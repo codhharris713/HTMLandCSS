@@ -1,0 +1,16 @@
+table {
+    border-style: dotted;
+    border-color: midnightblue;
+}
+td:hover {
+    background-color: red;
+    color:black;
+}
+tr, th {
+    background-color: black;
+    color:chartreuse;
+}
+tr, td {
+    background-color: orange;
+    color:midnightblue;
+}
